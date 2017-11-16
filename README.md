@@ -1,4 +1,4 @@
-#POC Visualizador de multas
+# POC Visualizador de multas
 
 Este proyecto busca mostrar lo aprendido con el lenguaje [Elm](http://elm-lang.org).
 
